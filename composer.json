@@ -1,0 +1,22 @@
+{
+    "name": "esopen",
+    "description": "es openapi",
+    "keywords": ["elasticsearch", "openapi", "es"],
+    "type": "sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "linzhenyu",
+            "email": "linzhenyu@fshows.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "EsOpen\\": "src"
+        }
+    }
+}
