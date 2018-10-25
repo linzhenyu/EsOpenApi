@@ -1,5 +1,5 @@
 {
-    "name": "esopen",
+    "name": "linzhenyu/esopen",
     "description": "es openapi",
     "keywords": ["elasticsearch", "openapi", "es"],
     "type": "sdk",
